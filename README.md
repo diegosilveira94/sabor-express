@@ -19,7 +19,7 @@ O projeto foi realizado como exercício do curso da [Alura](https://www.alura.co
 
 ## 🏗️ Estrutura do Projeto
 
-``bash
+`bash`
 sabor-express/
 ├── modelos/
 │   └── avaliacao.py         # Classe Avaliacao
@@ -28,7 +28,7 @@ sabor-express/
 ├── exercicio2.py            # Exercício complementar
 ├── teste1.py                # Testes simples de lógica
 └── READ
-``
+
 
 ## ▶️ Como executar
 1. Clone o repositório:
