@@ -19,7 +19,7 @@ O projeto foi realizado como exercício do curso da [Alura](https://www.alura.co
 
 ## 🏗️ Estrutura do Projeto
 
-`bash`
+```bash`
 sabor-express/
 ├── modelos/
 │   └── avaliacao.py         # Classe Avaliacao
